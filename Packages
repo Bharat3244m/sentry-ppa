@@ -1,0 +1,16 @@
+Package: sentry
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Bharat Singhal <bharatsinghal209@gmail.com>
+Depends: python3, python3-venv, libpam-runtime, libgl1
+Filename: ./sentry_1.0.0_amd64.deb
+Size: 37674630
+MD5sum: a3a450edde372b7b9715a4f07f46fce3
+SHA1: 1a8851e36340df1e95a20b7acd88184b6b350351
+SHA256: 03365681dd6c1c0d6fa9107f1baaf86c6087aa9d7e44808ddf31bcca35c52945
+Section: security
+Priority: optional
+Description: Linux Face Authentication Sentry
+ A dual-gate, high-performance biometric security daemon for PAM.
+ Implements real-time 3D liveness checks and affine face alignment.
+
