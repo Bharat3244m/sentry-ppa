@@ -19,11 +19,11 @@ Version: 1.0.0
 Architecture: amd64
 Maintainer: Bharat Singhal <bharatsinghal209@gmail.com>
 Depends: python3, python3-venv, libpam-runtime, libgl1
-Filename: ./sentry_1.0.2_amd64.deb
-Size: 37673142
-MD5sum: a550c9679ef1d6d5f60f45c0ce139143
-SHA1: c373bddd28c016ac127caa497e2565e05a2c9005
-SHA256: 088329d9425cc9906d7685a9cef8f35e8fa222df243e48d6fdc69c6d2aa89f9e
+Filename: ./sentry_1.0.0_amd64.deb
+Size: 37672550
+MD5sum: 51d2478fd79aeffe53ce85f16985649f
+SHA1: b1646c0b88ccaf6dc86784fd42a27ab250b8ec7c
+SHA256: e0ffdd6800ee381c774e17cd4d5e68c27da167ce0bb8c94cbf997a3b11e132aa
 Section: security
 Priority: optional
 Description: Linux Face Authentication Sentry
@@ -31,15 +31,15 @@ Description: Linux Face Authentication Sentry
  Implements real-time 3D liveness checks and affine face alignment.
 
 Package: sentry
-Version: 1.0.0
+Version: 1.0.2
 Architecture: amd64
 Maintainer: Bharat Singhal <bharatsinghal209@gmail.com>
 Depends: python3, python3-venv, libpam-runtime, libgl1
-Filename: ./sentry_1.0.0_amd64.deb
-Size: 37672550
-MD5sum: 51d2478fd79aeffe53ce85f16985649f
-SHA1: b1646c0b88ccaf6dc86784fd42a27ab250b8ec7c
-SHA256: e0ffdd6800ee381c774e17cd4d5e68c27da167ce0bb8c94cbf997a3b11e132aa
+Filename: ./sentry_1.0.2_amd64.deb
+Size: 37673140
+MD5sum: 8e7badc6f961ed9c8c58f8b2c5bf194e
+SHA1: c5dd6992612bc6e1f6f386bf96d9a06b5b607077
+SHA256: 3f60cfeae5384a26d32a6dee54fd8f945c1b307d7758f4e74dbf7c8f004ab7e9
 Section: security
 Priority: optional
 Description: Linux Face Authentication Sentry
