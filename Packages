@@ -36,10 +36,10 @@ Architecture: amd64
 Maintainer: Bharat Singhal <bharatsinghal209@gmail.com>
 Depends: python3, python3-venv, libpam-runtime, libgl1
 Filename: ./sentry_1.0.2_amd64.deb
-Size: 37673140
-MD5sum: 8e7badc6f961ed9c8c58f8b2c5bf194e
-SHA1: c5dd6992612bc6e1f6f386bf96d9a06b5b607077
-SHA256: 3f60cfeae5384a26d32a6dee54fd8f945c1b307d7758f4e74dbf7c8f004ab7e9
+Size: 37673472
+MD5sum: 12940d221a4d5e01469f3aed1750bd37
+SHA1: 1a04f921e4e1d93065d07f82ab11c6dcd6d51624
+SHA256: 8d29b669e81b1b28cb5ae78ae5bfacdd6adb1ebb19896bf42e458e196d49e655
 Section: security
 Priority: optional
 Description: Linux Face Authentication Sentry
